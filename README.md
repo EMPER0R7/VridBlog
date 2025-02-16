@@ -22,4 +22,4 @@ You can download and install the APK from the link below:
 ## 📂 Project Setup
 1. Clone the repository  
    ```sh
-   git clone https://github.com/YourUsername/VridBlogApp.git
+   git clone https://github.com/EMPER0R7/VridBlog.git
