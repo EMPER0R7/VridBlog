@@ -10,14 +10,10 @@ You can download and install the APK from the link below:
 
 ---
 
----
-
 ## ⚙️ Tech Stack
 - **Jetpack Compose** (UI)
 - **MVVM Architecture**
 - **Retrofit** (API Calls)
-- **Coroutines & Flow** (Async Tasks)
-- **Hilt Dependency Injection**
 - **Material 3 Design**
 - **Navigation Component**
 
